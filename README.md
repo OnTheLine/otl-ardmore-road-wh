@@ -1,9 +1,9 @@
-# otl-sanborn-west-hartford
-Side-by-side Sanborn fire insurance maps for West Hartford CT neighborhood, 1917-1923
+# otl-development-wh
+Side-by-side Sanborn fire insurance maps for real estate development in West Hartford CT, 1917-1923
 Leaflet synchronized dual maps, with geosearch and permalink features.
 
 ## Live map
-https://ontheline.github.io/otl-sanborn-west-hartford/index-caption.html
+https://ontheline.github.io/otl-development-wh/index-caption.html
 
 ## Credits
 Leaflet map developed by Ilya Ilyankou and Jack Dougherty for On The Line, http://OnTheLine.trincoll.edu, Trinity College, Hartford CT

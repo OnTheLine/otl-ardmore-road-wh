@@ -1,7 +1,7 @@
 // set initial center point, zoom, and layers
 var startCenter = [41.7664725937752, -72.73301216877707]; // Ardmore Road and Milton Street, West Hartford
-var minLatLng = [41.71468781859272, -72.79833198522446]; // FIX LATER
-var maxLatLng = [41.811104546836134, -72.71164299040684]; // FIX LATER
+var minLatLng = [41.75489626185603, -72.74478706615103]; // S Main and Boulevard
+var maxLatLng = [41.77205393621194, -72.71328720395834]; // Prospect & Fern
 var bounds = L.latLngBounds(minLatLng, maxLatLng);
 var startZoom = 17;
 var minZoom = 15;
@@ -100,7 +100,7 @@ var map2 = L.map('map2', {
 
 // customize link to view source code; add your own GitHub repository
 map1.attributionControl
-  .setPrefix('View <a href="http://github.com/ontheline/otl-sanborn-west-hartford" target="_blank">code on GitHub</a>');
+  .setPrefix('View <a href="http://github.com/ontheline/otl-development-wh" target="_blank">code on GitHub</a>');
 
 // Reposition zoom control other than default topleft
 L.control.zoom({position: "topright"}).addTo(map1);
