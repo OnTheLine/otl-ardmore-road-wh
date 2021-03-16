@@ -1,2 +1,24 @@
 # otl-sanborn-west-hartford
-side-by-side Leaflet map of Sanborn fire insurance maps for West Hartford CT neighborhood, 1917-1923
+Side-by-side Sanborn fire insurance maps for West Hartford CT neighborhood, 1917-1923
+Leaflet synchronized dual maps, with geosearch and permalink features.
+
+## Live map
+https://ontheline.github.io/otl-sanborn-west-hartford/index-caption.html
+
+## Credits
+Leaflet map developed by Ilya Ilyankou and Jack Dougherty for On The Line, http://OnTheLine.trincoll.edu, Trinity College, Hartford CT
+
+## Sources
+Library of Congress, Sanborn Map Collection:
+
+- Sanborn Map Company, Sanborn Fire Insurance Map from Hartford, Hartford County, Connecticut, 1917, https://www.loc.gov/item/sanborn01132_004/; georectified at https://mapwarper.net/maps/55434
+- Sanborn Map Company, Sanborn Fire Insurance Map from West Hartford, Hartford County, Connecticut, 1923, https://www.loc.gov/item/sanborn01194_001/; georectified at https://mapwarper.net/maps/55433
+
+## Dependencies
+- Leaflet https://leafletjs.com
+- jQuery https://jquery.com/
+- Esri Leaflet for Esri imagery and labels https://github.com/Esri/esri-leaflet/
+- L.Map.Sync v0.2.4 to synchronize map movements https://github.com/turban/Leaflet.Sync
+
+## Known issues
+- Console warning: Mixed content (http served over https). Asked UConn MAGIC about future https support for WMS server or alternate map source.
