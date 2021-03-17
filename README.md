@@ -22,13 +22,15 @@ Sanborn Map Collection, Library of Congress; georectified at Mapwarper.net
 
 ## City Directory CSV and PDF files
 
-1922-1926 Ardmore Road, West Hartford, City Directory Listings, transcribed from *Geer’s Hartford Directory, Including West Hartford and East Hartford, Connecticut* (Hartford, Conn: Hartford Printing Company).
+1922-1926 Ardmore Road, West Hartford, City Directory Listings, transcribed from *Geer’s Hartford Directory, Including West Hartford and East Hartford, Connecticut* (Hartford, Conn: Hartford Printing Company). Digitized by Ancestry.com.
 
 - 1922 https://www.ancestry.com/imageviewer/collections/2469/images/895141
 - 1923 https://www.ancestry.com/imageviewer/collections/2469/images/1338432
 - 1924 https://www.ancestry.com/imageviewer/collections/2469/images/1338432
 - 1925 https://www.ancestry.com/imageviewer/collections/2469/images/898569
 - 1926 https://www.ancestry.com/imageviewer/collections/2469/images/900345
+
+Note: City directories may be incomplete and contain errors. In this example, John Griswold is listed at 46 Ardmore for two years, then listed at 44 Ardmore for one year. Likewise, Charles Isleib is listed at 53 Ardmore for two years, then 51 Ardmore for one year. Abraham Weiner is listed at 83 Ardmore for one year, then 81 Ardmore the next year.
 
 ## Voter Registration CSV file
 
