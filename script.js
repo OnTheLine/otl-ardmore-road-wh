@@ -1,12 +1,12 @@
 // set initial center point, zoom, and layers
-var startCenter = [41.7664725937752, -72.73301216877707]; // Ardmore Road and Milton Street, West Hartford
+var startCenter = [41.764411799246275, -72.73229749476559]; // Farmington Avenue and Ardmore Road, West Hartford
 var minLatLng = [41.75489626185603, -72.74478706615103]; // S Main and Boulevard
 var maxLatLng = [41.77205393621194, -72.71328720395834]; // Prospect & Fern
 var bounds = L.latLngBounds(minLatLng, maxLatLng);
 var startZoom = 17;
 var minZoom = 15;
-var layer1 = 'sanborn1917';
-var layer2 = 'sanborn1923';
+var layer1 = 'sanborn1923';
+var layer2 = 'esriPresent';
 
 // define baselayers and insert further below, and also in index.html
 var sanborn1917 = new L.tileLayer("https://mapwarper.net/maps/tile/55434/{z}/{x}/{y}.png", {

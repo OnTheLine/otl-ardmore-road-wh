@@ -1,4 +1,4 @@
-# otl-development-wh
+# otl-ardmore-road-wh
 Side-by-side Leaflet map of Sanborn fire insurance maps and CSV data files on real estate development on Ardmore Road, West Hartford CT, 1917-1923+
 Leaflet synchronized dual maps, with geosearch and permalink features.
 
