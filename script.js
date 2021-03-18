@@ -180,6 +180,27 @@ $(document).ready(function() {
   $('#map2basemaps select').change(function() {
     changeBasemap('map2', $(this).val());
   });
+  
+  
+  /* Add blue market polygon to both sides */
+  $.getJSON('./market.geojson', function(mkt) {
+
+    // Read popup text from the `name` property
+    var mktPopupText = mkt.features[0].properties.name;
+
+    var style = {
+      color: 'blue',
+      opacity: 0.5,
+      fillColor: 'blue',
+      fillOpacity: 0.2,
+      weight: 2,  // outline thickness
+    }
+
+    // Add polygon to both maps
+    L.geoJSON(mkt, {style: style}).addTo(map1).bindPopup(mktPopupText);
+    L.geoJSON(mkt, {style: style}).addTo(map2).bindPopup(mktPopupText);
+  });
+  
 
   // Generate permalink on click
   $('#permalink').click(function() {
