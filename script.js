@@ -1,5 +1,5 @@
 // set initial center point, zoom, and layers
-var startCenter = [41.764411799246275, -72.73229749476559]; // Farmington Avenue and Ardmore Road, West Hartford
+var startCenter = [41.76527624274815, -72.73227724374132]; // just north of Farmington Avenue and Ardmore Road, West Hartford
 var minLatLng = [41.75489626185603, -72.74478706615103]; // S Main and Boulevard
 var maxLatLng = [41.77205393621194, -72.71328720395834]; // Prospect & Fern
 var bounds = L.latLngBounds(minLatLng, maxLatLng);
@@ -180,8 +180,8 @@ $(document).ready(function() {
   $('#map2basemaps select').change(function() {
     changeBasemap('map2', $(this).val());
   });
-  
-  
+
+
   /* Add blue market polygon to both sides */
   $.getJSON('./market.geojson', function(mkt) {
 
@@ -200,7 +200,7 @@ $(document).ready(function() {
     L.geoJSON(mkt, {style: style}).addTo(map1).bindPopup(mktPopupText);
     L.geoJSON(mkt, {style: style}).addTo(map2).bindPopup(mktPopupText);
   });
-  
+
 
   // Generate permalink on click
   $('#permalink').click(function() {
