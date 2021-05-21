@@ -1,0 +1,28 @@
+﻿1-or-2-fam,Street,Number,YearBuilt,Acreage,Frontage,Zone1924,Zone2021,LandAppraised2021($K),HC notes (searched Newspapers.com 1922-1930)
+2,Ardmore,117-119,1927,0.18,50,,RM-3R,128,"19280622 EJ O'Hara mortgage deed re Anna Berman for land and buildings $1k https://www.newspapers.com/clip/78101933/; 19281021 EJ O'Hara mortgage deeds (2) re Edith Shapiro for land and buildings, combined $15800 https://www.newspapers.com/clip/78101835/"
+2,Ardmore,121-123,1927,0.18,50,,RM-3R,128,"19271122 EJ O'Hara mortgage deed re Edith Shapiro for land and buildings (2) $15,800 combined https://www.newspapers.com/clip/78102178/"
+2,Ardmore,125-127,1928,0.18,50,,RM-3R,128,19271205 EJ O'Hara mortgage deed (2) re Edith Shapiro land and buildings combined $15400 https://www.newspapers.com/clip/78102712/
+2,Ardmore,129-131,1928,0.18,50,,RM-3R,128,19271231 EJ O'Hara mortgage deed re Beulah Bertwell for land and buildings combined $15400 https://www.newspapers.com/clip/78102802/
+2,Ardmore,133-135,1928,0.18,50,,RM-3R,128,"19280204 EJ O'Hara mortgage deed re HE Sobol for land and buidlings combined $15400 https://www.newspapers.com/clip/78102933/; 19280831 closet fire at home of Albert Bliss, 133 Ardmore, $500 damage; building owner EJ O'Hara, upstairs tenants away for 3 months"
+2,Ardmore,137-139,1928,0.18,50,,RM-3R,128,19271113 building permit over $10k to EJ O'Hara
+2,Ardmore,141-143,1928,0.18,50,,RM-3R,128,"19271209 building permit to EJ O'Hara for more than $10k, dwelling and garages"
+2,Ardmore,145-147,1928,0.18,50,,RM-3R,128,"19271209 building permit to EJ O'Hara for more than $10k, dwelling and garages; 19280816 EJ O'Hara mortgge deed re: Alice A. Moran $15400 land and buildings combined https://www.newspapers.com/clip/78103553/"
+1,Griswold,22,1927,0.17,50,,R-6,142,"19260715 Realty transferred Nettie Griffing to Louis Griffing, lot #22 https://www.newspapers.com/clip/78103740/"
+1,Griswold,26,1928,0.17,50,,R-6,142,none
+1,Griswold,30,1928,0.17,50,,R-6,142,"19281021 open house, Ryan Realty, no price listed https://www.newspapers.com/clip/78104208/; 19281204 Warranty deed August Kuehn to Francis Murray https://www.newspapers.com/clip/78104271/"
+1,Griswold,38,1927,0.17,50,,R-6,142,"19270701 Warrantee deed, WG Goltra to Irene S Hurlburt, land and buidlings https://www.newspapers.com/clip/78104439/"
+,Griswold,"skip 18, 34 due to later years",,,,,,,
+1,Penn,15,1928,0.17,50,,R-6,142,"SAME PAGE AS 129 ARDMORE: 19271231 Mortgage deeds (2) EF Butler re: Ebba McEvans, combined $8,700 https://www.newspapers.com/clip/78104573/ LESS TOTAL VALUE THAN 2-FAMILY"
+1,Penn,25,1928,0.17,50,,R-6,142,"19280701 small display ad Goeben Realty ""price attractive"" https://www.newspapers.com/clip/78104770/"
+1,Penn,29,1928,0.17,50,,R-6,142,none
+,Penn,"skip 19, 21 due to later years",,,,,,,
+,,,,,,,,,
+Sources:,,,,,,,,,
+"Selected 1- vs 2-family homes with nearly identical land size and in very close proximity that were built in 1927-28, shortly after zoning implemented",,,,,,,,,
+https://gis.vgsi.com/westhartfordct/Streets.aspx?Name=ARDMORE%20ROAD,,,,,,,,,
+https://gis.vgsi.com/westhartfordct/Parcel.aspx?pid=491,,,,,,,,,
+https://www.newspapers.com,,,,,,,,,
+,,,,,,,,,
+"Note that ""Fern Street School"" was built around July 1926, according to news reports on contractors",,,,,,,,,
+,,,,,,,,,
+"See WH Sewer assessment for Griswold and Penn Drive houses, using lot numbers (not house numbers), but with names, 19280630 https://www.newspapers.com/clip/78104043/",,,,,,,,,
